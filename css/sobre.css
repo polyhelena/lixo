@@ -1,0 +1,32 @@
+h1 {
+    text-align:center;
+}
+
+body {
+    background-color:rgba(212, 211, 208, 0.854);
+}
+
+h4 {
+    font-family:Georgia
+}
+
+h3{
+    text-align: center;
+}
+
+figure{
+    text-align: center;
+}
+
+img{
+    border-radius: 50%;
+
+    }
+
+.voltar{
+    text-align: right;
+    }
+
+.nome{
+    text-align: center;
+}
